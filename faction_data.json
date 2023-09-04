@@ -7,6 +7,16 @@
             "PlayerName": "Ande1steve5",
             "UserID": 188134041
         }
+    },
+
+    "Faction": {
+        "Name": "AI Faction",
+        "GroupID": "123",
+        "Color": "Navy blue",
+        "Leader_Data": {
+            "PlayerName": "AI",
+            "UserID": 1
+        }
     }
 }
 
