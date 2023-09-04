@@ -1,5 +1,5 @@
 {
-    "Faction": {
+    "Neo Desaria": {
         "Name": "Neo Desaria",
         "GroupID": "17128561",
         "Color": "Really red",
@@ -9,7 +9,7 @@
         }
     },
 
-    "Faction": {
+    "AI Faction": {
         "Name": "AI Faction",
         "GroupID": "123",
         "Color": "Navy blue",
