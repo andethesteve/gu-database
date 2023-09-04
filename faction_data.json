@@ -2,9 +2,11 @@
     "Faction": {
         "Name": "Developer Faction",
         "GroupID": "33040006",
+        "Color": "Smoky grey",
         "Leader_Data": {
             "PlayerName": "Ande1steve5",
             "UserID": 188134041
         }
     }
 }
+
