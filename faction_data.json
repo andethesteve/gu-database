@@ -17,6 +17,16 @@
             "PlayerName": "AI",
             "UserID": 1
         }
+    },
+
+    "Testing Faction": {
+        "Name": "Testing Faction",
+        "GroupID": "9966505",
+        "Color": "Really blue",
+        "Leader_Data": {
+            "PlayerName": "LegoVascense",
+            "UserID": "198750520"
+        }
     }
 }
 
