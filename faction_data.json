@@ -3,19 +3,10 @@
         "Name": "Neo Desaria",
         "GroupID": "17128561",
         "Color": "Really red",
+        "Capital_System": "Desarian",
         "Leader_Data": {
             "PlayerName": "Ande1steve5",
             "UserID": 188134041
-        }
-    },
-
-    "AI Faction": {
-        "Name": "AI Faction",
-        "GroupID": "123",
-        "Color": "Navy blue",
-        "Leader_Data": {
-            "PlayerName": "AI",
-            "UserID": 1
         }
     }
 }
