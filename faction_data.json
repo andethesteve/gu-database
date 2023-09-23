@@ -9,6 +9,18 @@
             "PlayerName": "Ande1steve5",
             "UserID": 188134041
         }
+    },
+
+    "Proxian Empire": {
+        "Name": "Proxian Empire",
+        "GroupID": "11544338",
+        "Color": "Really red",
+        "Capital_System": "Proxy",
+        "Capital_Planet": "Azuria",
+        "Leader_Data": {
+            "PlayerName": "mazentherobloxplayer",
+            "UserID": 918845799
+        }
     }
 }
 
