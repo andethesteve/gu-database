@@ -21,6 +21,42 @@
             "PlayerName": "mazentherobloxplayer",
             "UserID": 918845799
         }
+    },
+
+    "Supercorp": {
+        "Name": "Supercorp",
+        "GroupID": "8452188",
+        "Color": "Light blue",
+        "Capital_System": "Sol",
+        "Capital_Planet": "Earth",
+        "Leader_Data": {
+            "PlayerName": "DanzigMistaken",
+            "UserID": 1599474577
+        }
+    },
+
+    "Phresian Federation": {
+        "Name": "Phresian Federation",
+        "GroupID": "15982268",
+        "Color": "Medium blue",
+        "Capital_System": "Phresi",
+        "Capital_Planet": "Phraeci",
+        "Leader_Data": {
+            "PlayerName": "Phraeci",
+            "UserID": 53914272
+        }
+    },
+
+    "Imperium of Novum": {
+        "Name": "Novum Imperium",
+        "GroupID": "32596301",
+        "Color": "Black",
+        "Capital_System": "Neu Astrion",
+        "Capital_Planet": "Novum",
+        "Leader_Data": {
+            "PlayerName": "adminPolski555",
+            "UserID": 510495922
+        }
     }
 }
 
